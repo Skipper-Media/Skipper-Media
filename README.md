@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skipper-Media
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m interested in Machine learning 
+- 🌱 I’m currently working with python
+- 💞️ I’m looking to forward to collaborate with developers who share the same ideas with me...
 - 📫 How to reach me https://wa.me/+2348107921038
 
 <!---
